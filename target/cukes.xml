@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="36.557" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Purchase product" name="User browse site for product" time="36.432">
+<system-out><![CDATA[
+Given user navigate to Vodafone shop site...................................passed
+And Select language as English..............................................passed
+And move to Brand section and select Iphone.................................passed
+When Select any of returned iphone mobiles..................................passed
+And Press add to cart.......................................................passed
+And Press Proceed to Checkout...............................................passed
+And Select Delivery Options as Cairo Ain Shams..............................passed
+And Select Deliver to My Address............................................passed
+And Add address details.....................................................passed
+And confirm shipping address................................................passed
+And Leave Personal info Tab empty...........................................passed
+And confirm personal info...................................................passed
+Then an error message returned from Full Name field.........................passed
+]]></system-out>
+</testcase>
+</testsuite>

@@ -1,0 +1,9 @@
+org\example\Pages\product_page.class
+org\example\Pages\checkout_page.class
+org\example\StepDefs\GUI_TC.class
+org\example\StepDefs\hooks.class
+org\example\testRunner\runners.class
+org\example\testRunner\runners$runnerss.class
+org\example\Pages\main_page.class
+org\example\Pages\home_page.class
+org\example\Pages\basket_page.class
